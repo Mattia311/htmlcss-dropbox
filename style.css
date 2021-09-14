@@ -13,8 +13,9 @@ header {
     height: 60px;
     width: 100%;
     position: fixed;
+    margin-top: 0%;
 }
-a {
+.alfa1 {
     text-decoration: none;
     color: white;
     vertical-align: middle;
@@ -22,6 +23,77 @@ a {
     padding-right: 19px;
     padding-left: 19px;
     font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+.alfa2 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    padding-left: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+.alfa3 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    padding-left: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+.alfa4 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    padding-left: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+.alfa5 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    padding-left: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+.alfa6 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    padding-left: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+.alfa7 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    padding-left: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+.alfa8 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    padding-left: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
 }
 .classe1 {
     padding-top: 15px;
@@ -39,3 +111,130 @@ a {
     border: none;
 }
 /******************* header ************************/
+.classe3 {
+    background-color: #B4D0E7;
+    width: 100%;
+    height: 715px;
+    padding-top: 130px;
+}
+.margin1 {
+    width: 80%;
+    margin: auto;
+}
+h1 {
+    font-family: 'Open Sans',sans-serif;
+    font-size: 68px;
+    padding-bottom: 40px;
+}
+.classe4 {
+    float: left;
+    width: 35%;
+    font-family: 'Open Sans',sans-serif;
+}
+.classe5 {
+    float: left;
+    width: 65%;
+}
+.img1 {
+    width: 750px;
+}
+.bottone2 {
+    background-color: #0061FF;
+    color: white;
+    width: 200px;
+    height: 30px;
+    border: none;
+}
+.para1 {
+    font-size: 14px;
+    padding-bottom: 25px;
+}
+.para2 {
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 33px;
+}
+span {
+    padding-top: 90px;
+}
+/********************** /fine main 1 *********************/
+.margin2 {
+    width: 70%;
+    margin: auto;
+}
+.titolo1 {
+    font-size: 36px;
+    font-family: 'Open Sans',sans-serif;
+    padding-bottom: 60px;
+}
+.classe6 {
+    margin-top: 188px;
+}
+.bottone3 {
+    width: 18px;
+    height: 18px;
+    background-color: white;
+    border-radius: 100%;
+    border: 5px solid #0061FF;
+    vertical-align: middle;
+}
+.bottone4 {
+    width: 18px;
+    height: 18px;
+    background-color: white;
+    border-radius: 100%;
+    border: 1px solid #EBEBEC;
+    vertical-align: middle;
+}
+.alfa9 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+.alfa10 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+.section3 {
+    padding-bottom: 35px;
+}
+.classe7 {
+    width: 28%;
+    float: left;
+    height: 800px;
+    background-color: white;
+    border: 1px solid #EBEBEC;
+}
+.classe8 {
+    width: 28%;
+    float: left;
+    margin-left: 8%;
+    margin-right: 8%;
+    height: 800px;
+    background-color: white;
+    border: 1px solid #EBEBEC;
+}
+.classe9 {
+    width: 28%;
+    float: left;
+    height: 800px;
+    background-color: white;
+    border: 1px solid #EBEBEC;
+}
+.para3 {
+    text-align: center;
+    font-family: 'Open Sans',sans-serif;
+}
+hr {
+    border: 0; border-top: 1px solid #EBEBEC;
+    margin: 1em 0; padding: 0; 
+}
