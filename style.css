@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+header {
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+}
+a {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    padding-right: 19px;
+    padding-left: 19px;
+    font-size: 15px;
+}
+.classe1 {
+    padding-top: 15px;
+    float: left;
+}
+.classe2 {
+    float: right;
+    padding-top: 15px;
+}
+.bottone1 {
+    background-color: #0061FF;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border: none;
+}
+/******************* header ************************/
