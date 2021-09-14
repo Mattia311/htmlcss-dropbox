@@ -393,3 +393,134 @@ span {
     margin-bottom: 200px;
 }
 /************** /fine main 3 *************/
+.titolo1-1 {
+    font-size: 36px;
+    font-family: 'Open Sans',sans-serif;
+    padding-bottom: 60px;
+}
+.classe18 {
+    width: 28%;
+    float: left;
+}
+.classe19 {
+    width: 28%;
+    float: left;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.classe20 {
+    width: 28%;
+    float: left;
+}
+.img3 {
+    width: 283px;
+}
+.titolo3-3 {
+    text-align: left;
+    font-family: 'Open Sans',sans-serif;
+    padding-top: 10px;
+    font-size: 20px;
+    
+}
+.grafo4 {
+    font-size: 13px;
+    font-family: 'Open Sans',sans-serif;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.img4 {
+    width: 280px;
+}
+.classe17 {
+    margin-bottom: 170px;
+}
+/************* /fine main 4 ***********/
+.titolo1-2 {
+    font-size: 36px;
+    font-family: 'Open Sans',sans-serif;
+    padding-bottom: 30px;
+}
+.alfa11 {
+    color: #0564FF;
+}
+.classe22 {
+    margin-top: 50px;
+}
+.classe23 {
+   position: relative;
+   float: left;
+   width: 15%;
+}
+.classe24 {
+    position: relative;
+    float: left;
+    width: 15%;
+}
+.classe25 {
+   position: relative;
+   float: left;
+   width: 40%;
+}
+.classe26 {
+    position: relative;
+    float: left;
+    width: 15%;
+}
+.classe27 {
+   position: relative;
+   width: 15%;
+   float: left;
+}
+.classe28 {
+    height: 200px;
+    width: 100%;
+    background-color: #A2D39B;
+}
+.classe29 {
+    height: 200px;
+    width: 100%;
+    background-color: #0093CE;
+}
+.classe30 {
+    height: 200px;
+    width: 100%;
+    background-color:#61082B;
+}
+.classe31 {
+    height: 200px;
+    width: 100%;
+    background-color: #FF1C1C;
+}
+.classe32 {
+    height: 400px;
+    width: 100%;
+    background-color: #F5F5F5;
+}
+.classe33 {
+    height: 200px;
+    width: 100%;
+    background-color: #D5001F;
+}
+.classe34 {
+    height: 200px;
+    width: 100%;
+    background-color: #0D2481;
+}
+.classe35 {
+    height: 200px;
+    width: 100%;
+    background-color: #B4D0E7;
+}
+.classe36 {
+    height: 200px;
+    width: 100%;
+    background-color: #FFD830;
+}
+.img5 {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    color: white;
+}
