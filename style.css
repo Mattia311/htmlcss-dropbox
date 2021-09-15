@@ -288,21 +288,19 @@ span {
     font-family: 'Open Sans',sans-serif;
     padding-top: 20px;
 }
-ul li {
+ul .lista1 {
     padding-left: 2rem;
     background-image: url(./img/check-solid.svg);
     background-position: 0 0;
     background-size: 1rem 1rem;
     background-repeat: no-repeat;
     list-style: none;
-  }
-  li {
-    font-size: 11px;
-    font-family: 'Open Sans',sans-serif;
-  }
-  .lista1 {
+}
+.lista1 {
       margin: 20px 0;
-  }
+      font-size: 11px;
+      font-family: 'Open Sans',sans-serif;
+}
 .img15 {
     width: 10px;
 }
@@ -696,3 +694,58 @@ li {
     padding-left: 271px;
 }
 /************ /fine main 7 *********/
+.classe40 {
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    margin-top: 170px;
+}
+.classe41 {
+    float: left;
+    width: 20%;
+}
+.classe42 {
+    float: left;
+    width: 20%;
+}
+.classe43 {
+    float: left;
+    width: 20%;
+}
+.classe44 {
+    float: left;
+    width: 20%;
+}
+.classe45 {
+    float: left;
+    width: 20%;
+}
+.lista2 {
+    color: white;
+    list-style: none;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    font-size: 18px;
+    font-family: 'Open Sans',sans-serif;
+}
+.lista3 {
+    color: #F3F3F3;
+    list-style: none;
+    font-size: 12px;
+    font-family: 'Open Sans',sans-serif;
+    line-height: 25px;
+}
+.riga6 {
+    margin-top: 110px;
+    width: 40%;
+    border-bottom: 20px;
+}
+.grafo7 {
+    color: #999999;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 10px;
+    padding-top: 30px;
+}
+.img18 {
+    width: 10px;
+}
