@@ -210,7 +210,7 @@ span {
 .classe7 {
     width: 28%;
     float: left;
-    height: 800px;
+    height: 950px;
     background-color: white;
     border: 1px solid #EBEBEC;
 }
@@ -219,14 +219,14 @@ span {
     float: left;
     margin-left: 8%;
     margin-right: 8%;
-    height: 800px;
+    height: 950px;
     background-color: white;
     border: 1px solid #EBEBEC;
 }
 .classe9 {
     width: 28%;
     float: left;
-    height: 800px;
+    height: 950px;
     background-color: white;
     border: 1px solid #EBEBEC;
 }
@@ -288,16 +288,28 @@ span {
     font-family: 'Open Sans',sans-serif;
     padding-top: 20px;
 }
-ul {
-    list-style-type: none;
-}
-.img14 {
-    width: 10px;
-}
+ul li {
+    padding-left: 2rem;
+    background-image: url(./img/check-solid.svg);
+    background-position: 0 0;
+    background-size: 1rem 1rem;
+    background-repeat: no-repeat;
+    list-style: none;
+  }
+  li {
+    font-size: 11px;
+    font-family: 'Open Sans',sans-serif;
+  }
+  .lista1 {
+      margin: 20px 0;
+  }
 .img15 {
     width: 10px;
 }
 .img16 {
+    width: 10px;
+}
+.img17 {
     width: 10px;
 }
 li {
