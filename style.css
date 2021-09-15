@@ -288,6 +288,21 @@ span {
     font-family: 'Open Sans',sans-serif;
     padding-top: 20px;
 }
+ul {
+    list-style-type: none;
+}
+.img14 {
+    width: 10px;
+}
+.img15 {
+    width: 10px;
+}
+.img16 {
+    width: 10px;
+}
+li {
+    vertical-align: middle;
+}
 .para10 {
     font-size: 12px;
     font-family: 'Open Sans',sans-serif;
@@ -475,6 +490,7 @@ span {
     height: 200px;
     width: 100%;
     background-color: #A2D39B;
+    border: 10px solid #D0E9CD;
 }
 .classe29 {
     height: 200px;
@@ -524,3 +540,147 @@ span {
     width: 100px;
     color: white;
 }
+.img6 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    color: white;
+}.img7 {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    color: white;
+}
+.img8 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    color: white;
+}
+.img9 {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    color: white;
+}
+.img10 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    color: white;
+}
+.img11 {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    color: white;
+}
+.img12 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    color: white;
+}
+.img13 {
+    position: absolute;
+    top: 14%;
+    left: 18%;
+    transform: translate(-50%,-50%);
+    width: 122px;
+    color: white;
+}
+.riga4 {
+    border-top:1px solid #EBEBEC;
+    position: absolute;
+    top: 27%;
+    left: 11%;
+    transform: translate(-50%,-50%);
+    width: 45px;
+   
+}
+.grafo5 {
+    font-size: 10px;
+    font-family: 'Open Sans',sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 36%;
+    transform: translate(-50%,-53%);
+    
+}
+.grafo6 {
+    font-size: 10px;
+    font-family: 'Open Sans',sans-serif;
+    position: absolute;
+    top:73%;
+    left: 20%;
+    transform: translate(-50%,-53%);
+    
+}
+/*********** /fine main 5 ************/
+.classe37 {
+    background-color: #B4D0E7;
+    height: 300px;
+    width: 100%;
+}
+.titolo1-3 {
+    color: #61082B;
+    font-size: 36px;
+    font-family: 'Open Sans',sans-serif;
+    padding-top: 103px;
+    padding-left: 20px;
+}
+.classe38 {
+    float: left;
+    width: 50%;
+}
+.classe39 {
+    float: left;
+    width: 50%;
+}
+.bottone7 {
+    background-color: white;
+    color: black;
+    width: 288px;
+    height: 30px;
+    border: none;
+    margin-top: 113px;
+    font-size: 13px;
+    font-family: 'Open Sans',sans-serif;
+    margin-left: 187px;
+}
+/*********** /fine main 6 **********/
+.titolo1-4 {
+    font-size: 32px;
+    font-family: 'Open Sans',sans-serif;
+    padding-top: 103px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.riga5 {
+    margin-left: 20px;
+    border-top:1px solid #EBEBEC;
+}
+.titolo4-1 {
+    font-family: 'Open Sans',sans-serif;
+    margin-left: 20px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.span2 {
+    padding-left: 271px;
+}
+/************ /fine main 7 *********/
