@@ -15,7 +15,24 @@ header {
     position: fixed;
     margin-top: 0%;
 }
+
+
 .alfa1 {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    color: black;
+    margin-right: 19px;
+    margin-left: 19px;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+.alfa1:hover {
+    border-bottom: 3px solid black;
+    padding-bottom: 19px;
+}
+.alfa2 {
     text-decoration: none;
     color: white;
     vertical-align: middle;
@@ -24,13 +41,6 @@ header {
     padding-left: 19px;
     font-size: 15px;
     font-family: 'Open Sans',sans-serif;
-}
-
-.alfa1:hover {
-    border-bottom: 3px solid black;
-    padding-bottom: 19px;
-    padding-left: 0px;
-    padding-right: 0px;
 }
 
 .barrauno {
@@ -639,8 +649,34 @@ li {
     padding-top: 35px;
     padding-bottom: 35px;
 }
+.domanda .text {
+    position:relative;
+    bottom:30px;
+    left:21px;
+    visibility:hidden;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 15px;
+    color: rgb(189, 184, 184);
+}
+.domanda {
+    height: 80px;
+}
+.lorem {
+    color: black;
+    text-transform: uppercase;
+    opacity: 0.0;
+}
+.domanda:hover {
+    height: 150px;
+}
+.domanda:hover .text {
+    visibility:visible;
+}
 .span2 {
     padding-left: 271px;
+}
+.span2:hover {
+    transform: rotate(180);
 }
 /************ /fine main 7 *********/
 .classe40 {
@@ -683,6 +719,9 @@ li {
     font-size: 12px;
     font-family: 'Open Sans',sans-serif;
     line-height: 25px;
+}
+.lista3:hover {
+    text-decoration: underline;
 }
 .riga6 {
     margin-top: 110px;
