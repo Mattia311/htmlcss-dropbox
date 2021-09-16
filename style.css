@@ -486,6 +486,7 @@ li {
     transform: translate(-50%,-50%);
     width: 100px;
     color: white;
+    filter: invert(1);
 }
 .img6 {
     position: absolute;
@@ -494,6 +495,7 @@ li {
     transform: translate(-50%,-50%);
     width: 100px;
     color: white;
+    filter: invert(1);
 }.img7 {
     position: absolute;
     top: 25%;
@@ -501,6 +503,7 @@ li {
     transform: translate(-50%,-50%);
     width: 100px;
     color: white;
+    filter: invert(1);
 }
 .img8 {
     position: absolute;
@@ -509,6 +512,7 @@ li {
     transform: translate(-50%,-50%);
     width: 100px;
     color: white;
+    filter: invert(1);
 }
 .img9 {
     position: absolute;
@@ -517,6 +521,7 @@ li {
     transform: translate(-50%,-50%);
     width: 100px;
     color: white;
+    filter: invert(1);
 }
 .img10 {
     position: absolute;
@@ -525,6 +530,7 @@ li {
     transform: translate(-50%,-50%);
     width: 100px;
     color: white;
+    filter: invert(1);
 }
 .img11 {
     position: absolute;
@@ -533,6 +539,7 @@ li {
     transform: translate(-50%,-50%);
     width: 100px;
     color: white;
+    filter: invert(1);
 }
 .img12 {
     position: absolute;
@@ -541,6 +548,7 @@ li {
     transform: translate(-50%,-50%);
     width: 100px;
     color: white;
+    filter: invert(1);
 }
 .img13 {
     position: absolute;
@@ -549,6 +557,7 @@ li {
     transform: translate(-50%,-50%);
     width: 122px;
     color: white;
+    
 }
 .riga4 {
     border-top:1px solid #EBEBEC;
