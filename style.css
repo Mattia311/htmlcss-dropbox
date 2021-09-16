@@ -18,6 +18,9 @@ header {
 li.dropdown-container {
     position: relative;
 }
+.dropdown-item {
+    list-style: none;
+}
 ul.dropdown {
     position: absolute;
     width: 200px;
@@ -26,7 +29,7 @@ ul.dropdown {
     display: none;
     line-height: 41px;
 }
-.container:hover .dropdown {
+.dropdown-container:hover .dropdown {
     display:block;
 }
 .alfa1 {
@@ -38,7 +41,8 @@ ul.dropdown {
     margin-left: 19px;
     font-size: 15px;
     font-family: 'Open Sans',sans-serif;
-    
+    display: inline-block;
+    height: 100%;
 }
 .list-one {
     height: 100%;
@@ -59,12 +63,9 @@ ul.dropdown {
     padding-left: 19px;
     font-size: 15px;
     font-family: 'Open Sans',sans-serif;
-}
-li {
     display: inline-block;
     height: 100%;
 }
-
 .barrauno {
     padding-top: 15px;
     float: left;
