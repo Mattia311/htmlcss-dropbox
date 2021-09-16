@@ -15,8 +15,20 @@ header {
     position: fixed;
     margin-top: 0%;
 }
-
-
+li.dropdown-container {
+    position: relative;
+}
+ul.dropdown {
+    position: absolute;
+    width: 200px;
+    bottom: -188%;
+    background: white;
+    display: none;
+    line-height: 41px;
+}
+.container:hover .dropdown {
+    display:block;
+}
 .alfa1 {
     text-decoration: none;
     color: white;
@@ -26,11 +38,17 @@ header {
     margin-left: 19px;
     font-size: 15px;
     font-family: 'Open Sans',sans-serif;
+    
 }
-
+.list-one {
+    height: 100%;
+}
+.list-two {
+    height: 100%;
+}
 .alfa1:hover {
     border-bottom: 3px solid black;
-    padding-bottom: 19px;
+    
 }
 .alfa2 {
     text-decoration: none;
@@ -44,15 +62,18 @@ header {
 }
 li {
     display: inline-block;
+    height: 100%;
 }
 
 .barrauno {
     padding-top: 15px;
     float: left;
+    height: 100%;
 }
 .barradue{
     float: right;
     padding-top: 15px;
+    height: 100%;
 }
 .bottone1 {
     background-color: #0061FF;
